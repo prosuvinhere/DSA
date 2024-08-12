@@ -1,4 +1,4 @@
-Ll
+
 public class Main{
     public static class Node{
         int data;
